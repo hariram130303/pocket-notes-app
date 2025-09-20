@@ -58,7 +58,7 @@ pocket-notes-app/
 1. Clone the repository:
    ```bash
    git clone https://github.com/hariram130303/pocket-notes-app.git
-   cd pocket-notes
+   cd pocket-notes-app
    ```
 
 2. Install dependencies:
