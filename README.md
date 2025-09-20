@@ -18,18 +18,29 @@ It allows users to create groups, add notes, and organize them effectively.
 
 ## 📂 Project Structure
 ```
-pocket-notes/
-├── public/              # Public assets
+pocket-notes-app/
+├── build/
+├── node_modules/
+├── public/
+│   ├── Screenshots/
 ├── src/
-│   ├── assets/          # Images (banner, lock, etc.)
-│   ├── components/      # Reusable React components
+│   ├── assets/
+│   ├── component/
 │   │   ├── ModalWeb/
 │   │   ├── NoteAreaWeb/
 │   │   └── SidePanelAndMessageAreaWeb/
-│   ├── App.js           # Main component
-│   ├── index.js         # Entry point
-│   └── styles/          # CSS Modules
-└── package.json
+│   ├── pages/
+│   │   └── Home.js
+│   ├── App.css
+│   ├── App.js
+│   ├── index.css
+│   ├── index.js
+│   └── ...
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
+
 ```
 
 ---
