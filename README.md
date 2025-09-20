@@ -79,8 +79,10 @@ pocket-notes-app/
 ---
 
 ## 📸 Screenshots
-![Home Page](https://raw.githubusercontent.com/hariram130303/pocket-notes-app/main/public/screenshots/1.png)
-![Notes Page](https://raw.githubusercontent.com/hariram130303/pocket-notes-app/main/public/screenshots/2.png)
+1. Home Page
+(https://raw.githubusercontent.com/hariram130303/pocket-notes-app/main/public/screenshots/1.png)
+
+![Notes Page] (https://raw.githubusercontent.com/hariram130303/pocket-notes-app/main/public/screenshots/2.png)
 
 ---
 
